@@ -1,4 +1,7 @@
+
 # Muppet MiniChat
+## 🎥 Demo
+  ![Image](https://github.com/user-attachments/assets/14b121c6-4c15-41ab-ba72-283abf440846)
 
 A minimal multitenant chat system demonstrating:
 - Two-service backend architecture (Gateway + Responder)
